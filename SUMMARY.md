@@ -4,4 +4,4 @@
 
 ## Linux
 
-* [Page 1](linux/page-1.md)
+* [Базовая работа с терминалом](linux/bazovaya-rabota-s-terminalom.md)
