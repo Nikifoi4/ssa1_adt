@@ -6,14 +6,19 @@
 
 * [Базовая работа с терминалом](linux/terminal-basics.md)
 * [STD - стандартные потоки](linux/std.md)
-* [СОздание пользователей и групп](linux/user-and-group-creation.md)
+* [Создание пользователей и групп](linux/user-and-group-creation.md)
 * [Управление правами групп](linux/group-permission.md)
 * [Контроль прав](linux/permission-control.md)
 * [Sticky-биты](linux/sticky-bit.md)
 
 ## Права пользователей и групп в корпаративных сетях
 
-* [Page 1](prava-polzovatelei-i-grupp-v-korparativnykh-setyakh/page-1.md)
+* [Распределение прав](corporative-users-and-groups-permissions/permission-destribution.md)
+* [Удобство использования групп](corporative-users-and-groups-permissions/group-usability.md)
+* [AD и LDAP](corporative-users-and-groups-permissions/ad-ldap.md)
+* [LDAP](corporative-users-and-groups-permissions/ldap.md)
+* [FreeIPA](corporative-users-and-groups-permissions/freeipa)
+* [ActiveDirectory](corporative-users-and-groups-permissions/ad.md)
 
 ## Сетевая гигиена
 
