@@ -4,12 +4,12 @@
 
 ## Linux
 
-* [Базовая работа с терминалом](linux/bazovaya-rabota-s-terminalom.md)
+* [Базовая работа с терминалом](linux/terminal-basics.md)
 * [STD - стандартные потоки](linux/std.md)
-* [](linux/.md)
-* [](linux/.md)
-* [](linux/.md)
-* [](linux/.md)
+* [СОздание пользователей и групп](linux/user-and-group-creation.md)
+* [Управление правами групп](linux/group-permission.md)
+* [Контроль прав](linux/permission-control.md)
+* [Sticky-биты](linux/sticky-bit.md)
 
 ## Права пользователей и групп в корпаративных сетях
 
