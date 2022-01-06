@@ -5,6 +5,11 @@
 ## Linux
 
 * [Базовая работа с терминалом](linux/bazovaya-rabota-s-terminalom.md)
+* [STD - стандартные потоки](linux/std.md)
+* [](linux/.md)
+* [](linux/.md)
+* [](linux/.md)
+* [](linux/.md)
 
 ## Права пользователей и групп в корпаративных сетях
 
