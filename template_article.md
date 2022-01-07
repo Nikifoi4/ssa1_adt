@@ -1,5 +1,3 @@
 # Template
 
 
-## Оглавление
-* [Template](#Template)
