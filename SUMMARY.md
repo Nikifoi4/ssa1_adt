@@ -14,15 +14,13 @@
 ## Права пользователей и групп в корпаративных сетях
 
 * [Распределение прав](corporative-users-and-groups-permissions/permission-destribution.md)
-* [Удобство использования групп](corporative-users-and-groups-permissions/group-usability.md)
+* [Удобство использования групп](prava-polzovatelei-i-grupp-v-korparativnykh-setyakh/udobstvo-ispolzovaniya-grupp.md)
 * [AD и LDAP](corporative-users-and-groups-permissions/ad-ldap.md)
 * [LDAP](corporative-users-and-groups-permissions/ldap.md)
-* [FreeIPA](corporative-users-and-groups-permissions/freeipa)
+* [FreeIPA](prava-polzovatelei-i-grupp-v-korparativnykh-setyakh/freeipa.md)
 * [ActiveDirectory](corporative-users-and-groups-permissions/ad.md)
 
 ## Сетевая гигиена
-
-* []()
 
 ## Ключи и сертификаты
 
