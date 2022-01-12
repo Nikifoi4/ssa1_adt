@@ -8,8 +8,9 @@
 * /etc/group
 
 ## Как создавать и взаимодействовать
-* useradd
-* groupadd
+
+* useradd / userdell
+* groupadd / groupdell
 * passwd
 * usermod
 * groupmod
