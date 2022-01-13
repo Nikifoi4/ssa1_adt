@@ -1,6 +1,4 @@
 # SUID, SGID и Sticky Bit
-> пилится
-
 
 ## Проблема passwd
 
