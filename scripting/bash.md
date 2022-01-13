@@ -74,9 +74,9 @@ If - условный оператор. Делает действие в зав�
 ```
 #! /bin/bash
 
-if [ $1 == "yes" ]; then
+if [[ $1 == "yes" ]]; then
 	echo no
-elif [ $1 == "no" ]; then
+elif [[ $1 == "no" ]]; then
 	echo yes
 else
 	echo непанимаю
